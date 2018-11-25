@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "farm2cook-9eb2d",
+	"developement": "farm2cook-9eb2d",
+	"production": "farm2cook-9eb2d",
+  }
+}
